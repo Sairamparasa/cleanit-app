@@ -68,7 +68,7 @@ python CleanIT.py
 
 ## Example of Execution
 
-```bash
+```bash 
 Welcome to CleanIT (*_*)!
 Please enter dataset path: /usr/Dekstop/amazon.csv
 Please enter dataset name: amazon_sales_data
