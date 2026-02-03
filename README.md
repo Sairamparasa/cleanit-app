@@ -1,5 +1,5 @@
 # CleanIT - Python Application
-A Python-based data cleaning application to automate and simplify preprocessing tasks like handling missing values, duplicates, and data formatting.
+A Python-based data cleaning application to automate and simplify preprocessing tasks like the handling missing values, duplicates, and data formatting.
 ![Alt Text](https://github.com/Sairamparasa/cleanit-app/blob/main/cleanit%20cover%20image.png)
 
 ## Project Overview
