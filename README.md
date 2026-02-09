@@ -14,7 +14,7 @@ The key objectives of this project are:
 2. Identify and remove duplicate records, while keeping a backup of these duplicates.
 3. Handle missing values:
    - For numeric columns: replace missing values with the column's mean.
-   - For non-numeric columns: remove rows containing missing values.
+   - For non-numeric columns: remove rows containing missing values. 
 4. Save the cleaned dataset and provide access to both the cleaned data and duplicate records.
 
 ## Project Requirements
