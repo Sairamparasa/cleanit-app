@@ -17,7 +17,7 @@ The key objectives of this project are:
    - For non-numeric columns: remove rows containing missing values. 
 4. Save the cleaned dataset and provide access to both the cleaned data and duplicate records.
 
-## Project Requirements
+## Project Requirements 
 - Python 3.x
 - Pandas
 - Numpy
